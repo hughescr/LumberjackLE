@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Craig Hughes. All rights reserved.
 //
 
-#import "DDLog.h"
+#import "CocoaLumberjack.h"
 
 @interface LogEntriesLogger : DDAbstractLogger
 
